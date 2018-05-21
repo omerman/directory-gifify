@@ -1,17 +1,12 @@
-# directory-images-cropper
-Crop images in a directory
+# directory-gifify
+[Gifify](https://github.com/vvo/gifify) directory files.
 
+[Requirements](https://github.com/vvo/gifify#requirements)
 
-
-Installation (see [here](https://github.com/aheckmann/gm) for more)
-* `npm i directory-images-cropper`
-* `brew install graphicsmagick`
-
-Installation Windows
- * `npm i directory-images-cropper`
- * follow this [link](http://www.graphicsmagick.org/INSTALL-windows.html)
+Installation
+* `npm i directory-gifify`
 
 Usage
- * Simply run `directory-images-cropper -h`
+ * Simply run `directory-gifify -h`
 
 
